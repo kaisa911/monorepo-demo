@@ -1,0 +1,17 @@
+{
+  "name": "@monorepo/demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "less": "^4.1.3",
+    "@monorepo/utils": "workspace:^1.0.0",
+    "view-ui-plus": "^1.3.0"
+  }
+}

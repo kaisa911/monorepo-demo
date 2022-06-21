@@ -1,0 +1,17 @@
+{
+  "name": "@monorepo/vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "sass": "^1.52.3"
+  }
+}
